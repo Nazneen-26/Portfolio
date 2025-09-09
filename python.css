@@ -20,7 +20,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(img/pbk1.jpg) no-repeat center center/cover;
+    background: url(pbk1.jpg) no-repeat center center/cover;
     background-attachment: fixed;
     overflow: hidden;
 }
@@ -134,4 +134,5 @@ body {
     .todo-app { padding: 1.5rem; }
     .todo-app h1 { font-size: 2rem; }
     .stat-container { font-size: 1.3rem; padding: 12px 18px; }
+
 }
